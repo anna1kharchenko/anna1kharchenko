@@ -1,4 +1,4 @@
-# Anna Kharchenko | Junior Machine Learning Engineer
+# Junior Machine Learning Engineer
 
 Focused on **Unsupervised Learning**, **Healthcare AI**, and **Anomaly Detection**.
 
